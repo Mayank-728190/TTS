@@ -1,0 +1,6 @@
+Flask
+openai
+requests
+flask_cors
+python-dotenv
+langdetect
