@@ -25,16 +25,6 @@ Supports **Hindi, Indian English, and Hinglish** with automatic language/voice d
 **[Try Live (after you deploy!)](https://your-app-url.vercel.app/)**
 
 ---
-.
-├── app.py            # Flask backend with OpenAI TTS
-├── requirements.txt  # Python dependencies
-├── .gitignore        # Ignore venv, .env, etc.
-├── static/
-│   └── index.html    # Frontend UI (single-page HTML)
-└── .env              # Your OpenAI API key (never committed to Git)
-
-
----
 
 ## ⚙️ Setup & Local Run
 
