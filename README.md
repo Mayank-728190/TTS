@@ -28,12 +28,12 @@ Supports **Hindi, Indian English, and Hinglish** with automatic language/voice d
 
 ## 📦 Project Structure
 
-├── app.py # Flask backend with OpenAI TTS
-├── requirements.txt
-├── .gitignore
-├── static/
-│ └── index.html # Frontend UI
-└── .env # Your OpenAI API key (never committed)
+├── app.py # Flask backend with OpenAI TTS---
+├── requirements.txt---
+├── .gitignore---
+├── static/---
+│ └── index.html # Frontend UI---
+└── .env # Your OpenAI API key (never committed)---
 
 
 ---
